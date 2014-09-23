@@ -1,7 +1,8 @@
 # Assets
 assets/Mine/images/
 assets/Mine/mistress/
-
+*.7z
+*.zip
 
 # Windows image file caches
 Thumbs.db
